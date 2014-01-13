@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'cb';
-  src: url('../font/cb.eot?11592957');
-  src: url('../font/cb.eot?11592957#iefix') format('embedded-opentype'),
-       url('../font/cb.woff?11592957') format('woff'),
-       url('../font/cb.ttf?11592957') format('truetype'),
-       url('../font/cb.svg?11592957#cb') format('svg');
+  src: url('../font/cb.eot?5673176');
+  src: url('../font/cb.eot?5673176#iefix') format('embedded-opentype'),
+       url('../font/cb.woff?5673176') format('woff'),
+       url('../font/cb.ttf?5673176') format('truetype'),
+       url('../font/cb.svg?5673176#cb') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'cb';
-    src: url('../font/cb.svg?11592957#cb') format('svg');
+    src: url('../font/cb.svg?5673176#cb') format('svg');
   }
 }
 */
@@ -51,7 +51,9 @@
 }
  
 .icon-phone:before { content: '\e806'; } /* '' */
+.icon-menu:before { content: '\e808'; } /* '' */
 .icon-linkedin:before { content: '\e802'; } /* '' */
+.icon-meetup:before { content: '\e807'; } /* '' */
 .icon-rss:before { content: '\e804'; } /* '' */
 .icon-twitter:before { content: '\e801'; } /* '' */
 .icon-email:before { content: '\e805'; } /* '' */

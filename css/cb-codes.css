@@ -1,6 +1,8 @@
 
 .icon-phone:before { content: '\e806'; } /* '' */
+.icon-menu:before { content: '\e808'; } /* '' */
 .icon-linkedin:before { content: '\e802'; } /* '' */
+.icon-meetup:before { content: '\e807'; } /* '' */
 .icon-rss:before { content: '\e804'; } /* '' */
 .icon-twitter:before { content: '\e801'; } /* '' */
 .icon-email:before { content: '\e805'; } /* '' */
